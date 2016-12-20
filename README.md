@@ -1,17 +1,19 @@
 ## My Fork of vinniefalco-BK8/DSPFilters
 
-Thanks Vinnie this is an awesome libarary!!!!!!
+Thanks Vinnie this is an awesome library!!!!!!
 
 Changes:
 
--Demo is Working under JUCE v4.2.3
--You can use pro-jucer to create new build targets
--DspFilters and juce are not build as shared libraries
--All the filter files are into Source/DSPFilters so if you want to use it just copy all that folder and include Dsp.h in your project.
--Some changes where made to adapt it to JUCE v4.2.3
+- Demo is Working under JUCE v4.2.3
+- You can use pro-jucer to create new build targets
+- DspFilters and juce are not build as shared libraries
+- All the filter files are into Source/DSPFilters so if you want to use it just copy all that folder and include Dsp.h in your project.
+- Some changes where made to adapt it to JUCE v4.2.3
 
 Tested on OSX
+
 Check the documentation.cpp for more info.
+
 Licences are inherited from the original project.
 
 
