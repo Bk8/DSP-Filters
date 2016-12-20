@@ -4,17 +4,17 @@ Thanks Vinnie this is an awesome library!!!!!!
 
 Changes:
 
-- Demo is Working under JUCE v4.2.3
-- You can use pro-jucer to create new build targets
-- DspFilters and juce are not build as shared libraries
-- All the filter files are into Source/DSPFilters so if you want to use it just copy all that folder and include Dsp.h in your project.
-- Some changes where made to adapt it to JUCE v4.2.3
+- Demo is Working under JUCE v4.2.3<br>
+- You can use pro-jucer to create new build targets<br>
+- DspFilters and juce are not build as shared libraries<br>
+- All the filter files are into Source/DSPFilters so if you want to use it just copy all that folder and include Dsp.h in your project.<br>
+- Some changes where made to adapt it to JUCE v4.2.3<br>
 
-Tested on OSX
+Tested on OSX<br>
 
-Check the documentation.cpp for more info.
+Check the documentation.cpp for more info.<br>
 
-Licences are inherited from the original project.
+Licences are inherited from the original project.<br>
 
 
 ## A Collection of Useful C++ Classes for Digital Signal Processing
