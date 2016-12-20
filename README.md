@@ -14,7 +14,7 @@ Tested on OSX<br>
 
 Check the documentation.cpp for more info.<br>
 
-Licences are inherited from the original project.<br>
+Licenses are inherited from the original project.<br>
 
 
 ## A Collection of Useful C++ Classes for Digital Signal Processing
